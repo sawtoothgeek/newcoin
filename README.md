@@ -1,2 +1,2 @@
-# newcoin
-A bitcoin clone, for the new generation, introducing newcoin !
+# Newcoin
+A Bitcoin clone, for the new generation, introducing Newcoin !
